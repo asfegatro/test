@@ -1,0 +1,1321 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "ep2_dialogues Shared Data",
+  "m_TableCollectionName": "ep2_dialogues",
+  "m_TableCollectionNameGuidString": "c1ac6ee366d0d2542bdde32f791315b5",
+  "m_Entries": [
+    {
+      "m_Id": 222891765760,
+      "m_Key": "Sir?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 489523671040,
+      "m_Key": "BuyGas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 784500682752,
+      "m_Key": "EXIT",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 992269725696,
+      "m_Key": "AcrossTheBridge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1219349344256,
+      "m_Key": "BridgeQuestion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1642235850752,
+      "m_Key": "YesWhy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 370555322789888,
+      "m_Key": "huh?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397134732095488,
+      "m_Key": "NotAlotOfPeopleHeadDownThere2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397485896003584,
+      "m_Key": "NotAlotOfPeopleHeadDownThere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397591374360576,
+      "m_Key": "BeCareful",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397673058430976,
+      "m_Key": "Thanks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397708223475712,
+      "m_Key": "YouGotIt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397782903058432,
+      "m_Key": "wdym",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 400793134067712,
+      "m_Key": "NotJoking",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 401968684232704,
+      "m_Key": "PeopleGoingMissing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 403908310757376,
+      "m_Key": "PeopleWhoWentLooking",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 404009640947712,
+      "m_Key": "LocalsSay",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405268045393920,
+      "m_Key": "ThanksForGas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405334315397120,
+      "m_Key": "CanToilet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405399452938240,
+      "m_Key": "Cool",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405966141157376,
+      "m_Key": "StaffOnly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 747777896378368,
+      "m_Key": "RevisitCashier",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 749737429069824,
+      "m_Key": "AnythingElse?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 750856012197888,
+      "m_Key": "ThatsAll",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 965577030135808,
+      "m_Key": "WhatYouDoingOverThere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 971329878781952,
+      "m_Key": "Nothing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1025038180577280,
+      "m_Key": "SirYouNeedToCar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1025817972994048,
+      "m_Key": "I'llStop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1026152535846912,
+      "m_Key": "GonnaBeAWhile",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1026492702289920,
+      "m_Key": "IHaveWays",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1128785246318592,
+      "m_Key": "HowsYourNight",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1128933271695360,
+      "m_Key": "WhereYouHeaded",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130236563582976,
+      "m_Key": "NorwoodQuestion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130377206984704,
+      "m_Key": "nvm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130426662023168,
+      "m_Key": "AskClerk",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1387448120799232,
+      "m_Key": "NorwoodQuestionAgain",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1660648306143232,
+      "m_Key": "OneMoreThing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663328973910016,
+      "m_Key": "Okay",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663357918801920,
+      "m_Key": "Why",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663428005621760,
+      "m_Key": "WhosShe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663615667171328,
+      "m_Key": "SomeStoriesSayTheShe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663846362279936,
+      "m_Key": "ShesOutForBlood",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663923512307712,
+      "m_Key": "NeverPickUpHitchhiker",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1664662460592128,
+      "m_Key": "IfYouSeeAWoman",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1665075658256384,
+      "m_Key": "DoNotStop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1665321373167616,
+      "m_Key": "StepOnGas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1666190776889344,
+      "m_Key": "TheyAint",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1924413954093056,
+      "m_Key": "ThosePeopleOutThere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2181292538097664,
+      "m_Key": "PayForThat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222647272796160,
+      "m_Key": "YoureTheGirlFromTheGas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222810561245184,
+      "m_Key": "Hi",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222845449465856,
+      "m_Key": "ThanksForStopping",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222979197431808,
+      "m_Key": "DidntThinkStopForHitchhiker",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223177734811648,
+      "m_Key": "MyCarBrokeDown",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223272291201024,
+      "m_Key": "CantCallForHelp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223332806619136,
+      "m_Key": "CanIGetRide",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223403937820672,
+      "m_Key": "WhereYouHeading",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224037319667712,
+      "m_Key": "JustUpTheRoad",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224101538656256,
+      "m_Key": "JustTheNearestStopForHelp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224183164006400,
+      "m_Key": "HopIn",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224201140793344,
+      "m_Key": "CouldYouWaitTillIGetMyStuff",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11234027312934912,
+      "m_Key": "HurryUpThrowInTheBack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11436513353166848,
+      "m_Key": "HurryUp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11437437119262720,
+      "m_Key": "CanYouHelpMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11437513526898688,
+      "m_Key": "IamHelping",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11466477792292864,
+      "m_Key": "ImDone",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11467685974142976,
+      "m_Key": "HurryUp2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11468375878430720,
+      "m_Key": "NowSitBesideMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11488574836994048,
+      "m_Key": "WhatYouLookingAtNow",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11491011807309824,
+      "m_Key": "WhatYouLookingAtNow2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11906895394795520,
+      "m_Key": "WhatDoingHere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258679774670848,
+      "m_Key": "SoYouWontTellMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258808401391616,
+      "m_Key": "IdRatherNotSay",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258899895939072,
+      "m_Key": "ILiveCloseFromHere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259007857324032,
+      "m_Key": "IWasDrivingHome",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259111225946112,
+      "m_Key": "IfYouSaySo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259549430050816,
+      "m_Key": "ThenWhyAskQuestions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259793899253760,
+      "m_Key": "AndCarBrokeDownOnMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259899574743040,
+      "m_Key": "Jason",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259935066943488,
+      "m_Key": "IWouldntTrustMeEither",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260136712302592,
+      "m_Key": "What",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260165325844480,
+      "m_Key": "MyNamesJason",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260252038885376,
+      "m_Key": "ImHolly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260384335622144,
+      "m_Key": "ItsNiceToMeetYouJason",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260793565474816,
+      "m_Key": "YoureLuckIWasHere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261071123542016,
+      "m_Key": "YouAreBrave",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261237113122816,
+      "m_Key": "HowsThat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261301390831616,
+      "m_Key": "WhatThatSupposedToMean",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261425152159744,
+      "m_Key": "AnyClueAboutCar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262835981807616,
+      "m_Key": "ItWasBattery",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262944501035008,
+      "m_Key": "ItsOld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262992743919616,
+      "m_Key": "IdontKnow",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266006166794240,
+      "m_Key": "ItsMyDadsItsOld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266338406002688,
+      "m_Key": "ThatsIt?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266418420740096,
+      "m_Key": "CarNeverBrokeBefore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266533130760192,
+      "m_Key": "IThinkSo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266726748221440,
+      "m_Key": "SoWhatDoYouThinkAboutWhatHeTold",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266861884502016,
+      "m_Key": "DidntListenSingleWord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266938610905088,
+      "m_Key": "HeCreepedMeOut",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267016515907584,
+      "m_Key": "HesFunny",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267086007136256,
+      "m_Key": "Interseting.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267206039728128,
+      "m_Key": "ThatPrickScaresEveryone",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267749348896768,
+      "m_Key": "SoIsItTrue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268145987448832,
+      "m_Key": "NeverSeenMonsterMyself",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268255291011072,
+      "m_Key": "SomeThings",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268355530682368,
+      "m_Key": "YourCarWasOneOfThem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268564067282944,
+      "m_Key": "IDontWannaSoundLikeThatMoron",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269005916237824,
+      "m_Key": "SorryForBeingAJerk",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269085645762560,
+      "m_Key": "IDontMind",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269146517696512,
+      "m_Key": "ThatsAlright",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13139051785908224,
+      "m_Key": "AreYouSure",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13258288340824064,
+      "m_Key": "DontBotherDontBeBothered",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15622737534021632,
+      "m_Key": "PayUpGasStation",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15622903238389760,
+      "m_Key": "PAY",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682187050250240,
+      "m_Key": "GalNeedARoom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682267534749696,
+      "m_Key": "HowMuchForARoom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682420966584320,
+      "m_Key": "OnlyForAFewHours",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682484296380416,
+      "m_Key": "RoomPrice",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682577078579200,
+      "m_Key": "CashOnly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682630828584960,
+      "m_Key": "RoomNo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682782821773312,
+      "m_Key": "CarBrokeDown",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682945476882432,
+      "m_Key": "RepairPrice",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683014510931968,
+      "m_Key": "GoodTommyWillGetTheCar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683130353414144,
+      "m_Key": "AndOneLastThing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683251665268736,
+      "m_Key": "TryNotToWakeGuests",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093190060437504,
+      "m_Key": "WhatYouDoingHere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093364761587712,
+      "m_Key": "YouScaredMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093446139473920,
+      "m_Key": "IShouldBeAskingYou",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093519502045184,
+      "m_Key": "hehe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093614431727616,
+      "m_Key": "WhoAreYou",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093671751086080,
+      "m_Key": "ImTommy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094086722940928,
+      "m_Key": "WhatWereYouDoingThere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094167761088512,
+      "m_Key": "CleaningStuff",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094463635681280,
+      "m_Key": "GaveThisRoom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094629654622208,
+      "m_Key": "WaitOutside",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27102290014007296,
+      "m_Key": "IllGetMyStuff",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28152693241573376,
+      "m_Key": "WhatYouDoing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28152840348397568,
+      "m_Key": "PleaseStopThat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28153034502729728,
+      "m_Key": "GoingToCallTheCops",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28153462963466240,
+      "m_Key": "ThereWillBeConsequences",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32063726502965248,
+      "m_Key": "RoomNo9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32064719605100544,
+      "m_Key": "HaveAGoodNight",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32065932383907840,
+      "m_Key": "PleaseWaitOutside",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36496882815627264,
+      "m_Key": "HadAWordWithJoe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36496978902937600,
+      "m_Key": "WhatsWrongWithThisTown",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497381849722880,
+      "m_Key": "ButDontWorry",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497451575832576,
+      "m_Key": "RoomsPhoneNotWorking",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497597495668736,
+      "m_Key": "NotEnoughGuests",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497734825570304,
+      "m_Key": "GoodNightHehe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054534762885120,
+      "m_Key": "DidntITellYouToKeepDown",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054687351664640,
+      "m_Key": "IHaveComplaints",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054744297730048,
+      "m_Key": "WhateverItIsKeepDown",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055046950318080,
+      "m_Key": "WhyEyesRed",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055099995680768,
+      "m_Key": "MentionCoffeeMachine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055213610987520,
+      "m_Key": "AreYouMessingWithMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055265842655232,
+      "m_Key": "WeDontHaveCoffee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055316757311488,
+      "m_Key": "ThenWhatsThat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055431836430336,
+      "m_Key": "IveHadEnoughOfYouGoons",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059537623838720,
+      "m_Key": "JustFollowMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059604581707776,
+      "m_Key": "OnlyIfYouPromiseToSleep",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059683157798912,
+      "m_Key": "LeadJoe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38361369566932992,
+      "m_Key": "WhereIsItNow",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38361422528409600,
+      "m_Key": "ShowMeWhereIsIt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38689704914350080,
+      "m_Key": "GoBackToTheRoom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38689814750588928,
+      "m_Key": "ItWasRightHere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690129394692096,
+      "m_Key": "WhatIsIt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690193701761024,
+      "m_Key": "WhatHappened",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690312648028160,
+      "m_Key": "ISaidGoBackToRoom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690414141796352,
+      "m_Key": "DidYouNotHearMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38733508883148800,
+      "m_Key": "ThereShouldBeSomeMedication",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38734012606476288,
+      "m_Key": "CheckTheTable",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39391035056615424,
+      "m_Key": "YourStuffRightOutside",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40598874295005184,
+      "m_Key": "PleaseOpenTheDoor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40598965923770368,
+      "m_Key": "WhatDoYouNeedHelpWith",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40599040041316352,
+      "m_Key": "OpenTheDoor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40599081971773440,
+      "m_Key": "DoNothing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40618950356267008,
+      "m_Key": "WhoIsIt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40934754486480896,
+      "m_Key": "NeedHelpPleaseOpen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40948616849944576,
+      "m_Key": "IJustWantToTalkToYou",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40949320608018432,
+      "m_Key": "PleaseGoAwayOrCops",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40952335524065280,
+      "m_Key": "PrettyLadyComeOne",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40961486283239424,
+      "m_Key": "IKnowYoureInThere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40967159272337408,
+      "m_Key": "PleaseGoAway",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43035722191630336,
+      "m_Key": "ItsJoeAtTheDoor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "id": 0
+  },
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "DistributedUIDGenerator",
+        "ns": "UnityEngine.Localization.Tables",
+        "asm": "Unity.Localization"
+      },
+      "data": {}
+    }
+  }
+}

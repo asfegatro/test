@@ -1,0 +1,1323 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_dialogues_pt",
+  "m_LocaleId": {
+    "m_Code": "pt"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -8785138362694814198
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 222891765760,
+      "m_Localized": "senhora?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 489523671040,
+      "m_Localized": "Olá, posso ter $10 na bomba 2?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 784500682752,
+      "m_Localized": "[SAIR]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 992269725696,
+      "m_Localized": "Estás a caminho da ponte sozinho?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1219349344256,
+      "m_Localized": "A ponte?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1642235850752,
+      "m_Localized": "Sim porque?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 370555322789888,
+      "m_Localized": "Huh?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397134732095488,
+      "m_Localized": "A estrada do vale de Norwood quero dizer, não há muitas pessoas que passam por lá nesta altura do ano",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397485896003584,
+      "m_Localized": "não há muitas pessoas que passam por lá nesta altura do ano",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397591374360576,
+      "m_Localized": "tome cuidado",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397673058430976,
+      "m_Localized": "Obrigado",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397708223475712,
+      "m_Localized": "Tu consegues isto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397782903058432,
+      "m_Localized": "O que queres dizer?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 400793134067712,
+      "m_Localized": "Não estou a brincar senhora, tome cuidado. Não é seguro lá fora",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 401968684232704,
+      "m_Localized": "por volta de um século, muitas pessoas e desapareceram por lá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 403908310757376,
+      "m_Localized": "e pessoas que foram lá procurar nunca voltaram",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 404009640947712,
+      "m_Localized": "os habitantes dizem que o monstro do vale de Norwood tinha lhes rasgados e pendurados de cabeça para baixo nas árvores",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405268045393920,
+      "m_Localized": "Bem, obrigado pela gasolina.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405334315397120,
+      "m_Localized": "Posso usar a casa de banho?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405399452938240,
+      "m_Localized": "Fixe.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405966141157376,
+      "m_Localized": "não está limpo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 747777896378368,
+      "m_Localized": "Tu tens a bomba 2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 749737429069824,
+      "m_Localized": "Mais alguma coisa senhora?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 750856012197888,
+      "m_Localized": "É tudo, obrigado",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 965577030135808,
+      "m_Localized": "O que estás a fazer ai ao fundo?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 971329878781952,
+      "m_Localized": "Nada",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1025038180577280,
+      "m_Localized": "Senhora, vai ter que parar ou eu vou ter que chamar a policia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1025817972994048,
+      "m_Localized": "Só estou à procura de óleo de motor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1026152535846912,
+      "m_Localized": "Vai demorar até que a polícia chegar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1026492702289920,
+      "m_Localized": "Eu tenho as minhas maneiras",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1128785246318592,
+      "m_Localized": "Como está a correr a sua noite?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1128933271695360,
+      "m_Localized": "Onde é que vais?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130236563582976,
+      "m_Localized": "Ouviste falar do monstro do vale de Norwood?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130377206984704,
+      "m_Localized": "Esquece.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130426662023168,
+      "m_Localized": "GRANDE ERRO",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1387448120799232,
+      "m_Localized": "O monstro do vale de Norwood, sabes de alguma coisa?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1660648306143232,
+      "m_Localized": "e mais uma coisa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663328973910016,
+      "m_Localized": "Okay",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663357918801920,
+      "m_Localized": "Por que?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663428005621760,
+      "m_Localized": "Quem é elá?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663615667171328,
+      "m_Localized": "Algumas pessoas dizem que ela morreu num acidente de carro ali na noite do baile, alguns dizem que ela procura vingança depois de ter sido violada e assassinada lá.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663846362279936,
+      "m_Localized": "Independentemente, ela está em busca de sangue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663923512307712,
+      "m_Localized": "O que quer que faça nunca...NUNCA... em qualquer circunstância, aceite dar boleia a alguém",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1664662460592128,
+      "m_Localized": "Se vir uma mulher num vestido branco ou azul a tentar apanhar boleia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1665075658256384,
+      "m_Localized": "NÃO PARE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1665321373167616,
+      "m_Localized": "Apenas pise no acelerador o mais forte que conseguir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1666190776889344,
+      "m_Localized": "Eles apenas não são",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1924413954093056,
+      "m_Localized": "Aquelas pessoas lá fora na estrada a colocar os seus pulgares para cima, eles não são o que parecem senhora",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2181292538097664,
+      "m_Localized": "Precisa de pagar, senhora",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222647272796160,
+      "m_Localized": "Tu és a rapariga da bomba de gasolina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222810561245184,
+      "m_Localized": "Olá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222845449465856,
+      "m_Localized": "Muito obrigado por parar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222979197431808,
+      "m_Localized": "Não pensei que alguém iria parar por mim aqui",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223177734811648,
+      "m_Localized": "Eu acho que o meu carro acabou de se estragar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223272291201024,
+      "m_Localized": "Eu não consigo chamar por ajuda, não há rede de telemóvel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223332806619136,
+      "m_Localized": " Acha que posso pegar uma boleia?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223403937820672,
+      "m_Localized": "Para onde vai?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224037319667712,
+      "m_Localized": "Apenas para o fim da estrada",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224101538656256,
+      "m_Localized": "Só a paragem mais próxima onde eu possa pedir ajuda",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224183164006400,
+      "m_Localized": "Entra",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224201140793344,
+      "m_Localized": "Muito obrigado, podes esperar até eu trazer as minhas coisas?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11234027312934912,
+      "m_Localized": "Rápido, manda isso cá para traz, não tenho tempo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11436513353166848,
+      "m_Localized": "Precisas de te despachar, não tenho o dia todo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11437437119262720,
+      "m_Localized": "Podes-me ajudar-me com as minhas coisas?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11437513526898688,
+      "m_Localized": "Não é seguro sair daqui",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11466477792292864,
+      "m_Localized": "Já tá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11467685974142976,
+      "m_Localized": "Despacha-te, eu preciso de começar a andar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11468375878430720,
+      "m_Localized": "Finalmente, agora entra, mas rápido",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11488574836994048,
+      "m_Localized": "Estás a olhar para onde? Vamos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11491011807309824,
+      "m_Localized": "Entras agora ou bazo sem ti",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11906895394795520,
+      "m_Localized": "O que estás aqui?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258679774670848,
+      "m_Localized": "Então não me vais dizer quem és ou onde vais?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258808401391616,
+      "m_Localized": "Prefiro não dizer, se for ok",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258899895939072,
+      "m_Localized": "Eu vivo muito perto daqui",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259007857324032,
+      "m_Localized": "Eu estava a ir para casa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259111225946112,
+      "m_Localized": "Se tu o dizes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259549430050816,
+      "m_Localized": "Ai é? nesse caso não pensei que irias fazer esse tipo de perguntas na bomba de gasolina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259793899253760,
+      "m_Localized": "e aquela merda estragou-se",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259899574743040,
+      "m_Localized": "Jason",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259935066943488,
+      "m_Localized": "Não faz mal, eu também não confiaria em mim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260136712302592,
+      "m_Localized": "O que?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260165325844480,
+      "m_Localized": "Meu nome é Jason",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260252038885376,
+      "m_Localized": "Sou Holly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260384335622144,
+      "m_Localized": "É um prazer conhecê-lo jason",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260793565474816,
+      "m_Localized": "És muito sortuda por eu estar neste lado da cidade esta noite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261071123542016,
+      "m_Localized": "Eu devo dizer, tu és uma jovem corajosa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261237113122816,
+      "m_Localized": "Como assim?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261301390831616,
+      "m_Localized": "O que é que isso quer dizer?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261425152159744,
+      "m_Localized": "Tens alguma ideia do que aconteceu ao teu carro lá atrás?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262835981807616,
+      "m_Localized": "Eu acho que foi a tua bateria",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262944501035008,
+      "m_Localized": "É um carro velho",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262992743919616,
+      "m_Localized": "Eu não sei",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266006166794240,
+      "m_Localized": "É do meu pai, é um bocado velho",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266338406002688,
+      "m_Localized": "É isso?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266418420740096,
+      "m_Localized": "Nunca se estragou comigo assim antes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266533130760192,
+      "m_Localized": "Eu acho que sim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266726748221440,
+      "m_Localized": "Então, o que é que tu achas sobre o que ele te contou lá na bomba de gasolina?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266861884502016,
+      "m_Localized": "Eu não ouvi uma unica palavra",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266938610905088,
+      "m_Localized": "Ele realmente assustou-me",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267016515907584,
+      "m_Localized": "Ele é engraçado",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267086007136256,
+      "m_Localized": "Interessante...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267206039728128,
+      "m_Localized": "Idiotas dizem isso a qualquer pessoa que passa por aqui",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267749348896768,
+      "m_Localized": "Então é verdade?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268145987448832,
+      "m_Localized": "O quê? O monstro? Vamos ver, eu nunca vi o monstro por mim mesmo, mas há...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268255291011072,
+      "m_Localized": "há algumas coisas...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268355530682368,
+      "m_Localized": "e temo que o teu carro a estragar-se pode ter sido um deles",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268564067282944,
+      "m_Localized": "Hey ouve... Eu não quero soar como aquele idiota mas apenas lembra-te disto...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269005916237824,
+      "m_Localized": "Sabes, desculpa por ter sido um parvo contigo antes, não sou o melhor com pessoas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269085645762560,
+      "m_Localized": "Não me importo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269146517696512,
+      "m_Localized": "Não faz mal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13139051785908224,
+      "m_Localized": "Tens a certeza?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13258288340824064,
+      "m_Localized": "Não os incomodas e não és incomodada",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15622737534021632,
+      "m_Localized": "Isso será $5 senhora",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15622903238389760,
+      "m_Localized": "[PAGAR]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682187050250240,
+      "m_Localized": "A senhora precisa de um quarto para passar a noite?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682267534749696,
+      "m_Localized": "Quanto é que custa um quarto?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682420966584320,
+      "m_Localized": "hm sim, Apenas vou ficar aqui umas horas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682484296380416,
+      "m_Localized": "$40 por uma peça",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682577078579200,
+      "m_Localized": "Pagar com apenas dinheiro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682630828584960,
+      "m_Localized": "Quarto número 9, ali mesmo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682782821773312,
+      "m_Localized": "[FALAR SOBRE O CARRO]\n",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682945476882432,
+      "m_Localized": "$90, o Tommy toma conta disso na manhã seguinte",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683014510931968,
+      "m_Localized": "Boa, eu vou deixar o Tommy saber",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683130353414144,
+      "m_Localized": "E uma última coisa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683251665268736,
+      "m_Localized": "Tenta não acordar os outros clientes, eles talvez não irão gostar muito disso",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093190060437504,
+      "m_Localized": "O que estás a fazer aqui?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093364761587712,
+      "m_Localized": "Tu assustaste-me >:(",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093446139473920,
+      "m_Localized": "Eu deveria estar a perguntar-te a ti",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093519502045184,
+      "m_Localized": "hehehe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093614431727616,
+      "m_Localized": "Quem és tu",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093671751086080,
+      "m_Localized": "Eu sou o Tommy, serviço de quartos aqui na pousada rodeway, o melhor estabelecimento em norwood",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094086722940928,
+      "m_Localized": "O que é que estavas a fazer ali dentro?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094167761088512,
+      "m_Localized": "Tu sabes...\nA limpar coisas...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094463635681280,
+      "m_Localized": "O homem do balcão principal deu me este quarto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094629654622208,
+      "m_Localized": "Eu vou ter de lhe pedir para sair enquanto eu arrumo o quarto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27102290014007296,
+      "m_Localized": "Vou apenas buscar as minhas coisas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28152693241573376,
+      "m_Localized": "Oque é que estás a fazer?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28152840348397568,
+      "m_Localized": "Senhora, por favor para com isso.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28153034502729728,
+      "m_Localized": "Vou ligar à polícia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28153462963466240,
+      "m_Localized": "Iram haver consequências",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32063726502965248,
+      "m_Localized": "Mesmo ali, é o quarto número 9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32064719605100544,
+      "m_Localized": "Tem uma boa noite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32065932383907840,
+      "m_Localized": "Por favor espera lá fora disse eu, vai buscar as tuas coisas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36496882815627264,
+      "m_Localized": "tive uma palavrinha com o Joe sobre a situação ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36496978902937600,
+      "m_Localized": "qual é o preoblema destas pessoas?\nPiedade, Piedade, Piedade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497381849722880,
+      "m_Localized": "mas não te preocupes, é seguro aqui, eu vou buscar o teu carro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497451575832576,
+      "m_Localized": "e também o telefone não está a funcionar. se precisares de alguma coisa apenas pede do balcão principal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497597495668736,
+      "m_Localized": "Nós temos tentado arranjá-la mas não temos visto clientes suficientes ultimamente hehehe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497734825570304,
+      "m_Localized": "mas tu tens uma boa noite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054534762885120,
+      "m_Localized": "eu não te ESPECIFICAMENTE disse para não acordares ninguém?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054687351664640,
+      "m_Localized": "Eu tenho reclamações. Para que é que estás a fazer todos esses sons patetas.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054744297730048,
+      "m_Localized": "o que quer que seja, apenas fale mais baixo senhora",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055046950318080,
+      "m_Localized": "aquilo é- por que é que os teus olhos estão completamente vermelhos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055099995680768,
+      "m_Localized": "[MENCIONAR A MÁQUINA DE CAFÉ]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055213610987520,
+      "m_Localized": "Estás a brincar comigo?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055265842655232,
+      "m_Localized": "Nós não temos nenhuma máquina de café aqui",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055316757311488,
+      "m_Localized": "Está ali mesmo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055431836430336,
+      "m_Localized": "okay okay aqui\r\neu estou cansado de malucos idiotas como voçês aqui, eu achava que finalmente teria um cliente sóbrio mas eu acho que o maluco aqui sou eu        ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059537623838720,
+      "m_Localized": "segue me",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059604581707776,
+      "m_Localized": "Odeio o meu trabalho",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059683157798912,
+      "m_Localized": "[LIDERAR JOE]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38361369566932992,
+      "m_Localized": "onde é que isso está agora?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38361422528409600,
+      "m_Localized": "O que aconteceu? Mostras-me a tua máquina de café agora?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38689704914350080,
+      "m_Localized": "Volta para o quarto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38689814750588928,
+      "m_Localized": "Eu juro que estava mesmo ali",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690129394692096,
+      "m_Localized": "O que foi?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690193701761024,
+      "m_Localized": "O que aconteceu?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690312648028160,
+      "m_Localized": "Eu disse vai para trás\r\nAGORA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690414141796352,
+      "m_Localized": "não me ouviste? EU DISSE  VOLTA PARA O QUARTO E NÃO SAIAS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38733508883148800,
+      "m_Localized": "deve haver alguma medicação no teu quarto que deverá dar te algum alívio",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38734012606476288,
+      "m_Localized": "verifica a mesa ao lado da televisão",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39391035056615424,
+      "m_Localized": "As tuas coisas estão lá fora",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40598874295005184,
+      "m_Localized": "Por favor abra a porta, preciso de ajuda",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40598965923770368,
+      "m_Localized": "o que é que queres?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40599040041316352,
+      "m_Localized": "[ABRIR A PORTA]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40599081971773440,
+      "m_Localized": "[FAZER NADA]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40618950356267008,
+      "m_Localized": "Quem é?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40934754486480896,
+      "m_Localized": "Eu preciso dá sua ajuda\r\nPor favor abra a porta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40948616849944576,
+      "m_Localized": "Só preciso de falar contigo\nPrometo que não sou policial",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40949320608018432,
+      "m_Localized": "Por favor saí ou eu vou chamar a policia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40952335524065280,
+      "m_Localized": "senhora bonita... vá lá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40961486283239424,
+      "m_Localized": "Eu sei que estás lá dentro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40967159272337408,
+      "m_Localized": "Por favor sai",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43035722191630336,
+      "m_Localized": "joe da recepção, abra a porta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

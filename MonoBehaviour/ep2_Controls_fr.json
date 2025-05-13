@@ -1,0 +1,203 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_Controls_fr",
+  "m_LocaleId": {
+    "m_Code": "fr"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 2284284053608594710
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 207561584640,
+      "m_Localized": "[ESPACE] pour Sortir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7928423718744064,
+      "m_Localized": "[G] pour Jeter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16544338920239104,
+      "m_Localized": "10:23 PM",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16544573302140928,
+      "m_Localized": "22:43",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052884779986944,
+      "m_Localized": "[ACHETER]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052907785744384,
+      "m_Localized": "[SORTIR]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052992326135808,
+      "m_Localized": "CHARGEMENT...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24059063132385280,
+      "m_Localized": "RÉCUPÉREZ VOTRE OBJET",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24063487917584384,
+      "m_Localized": "[CONSOMMER]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29209001046732800,
+      "m_Localized": "12:08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31729380915048448,
+      "m_Localized": "[C] pour S'accroupir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39542413678768128,
+      "m_Localized": "[ESPACE] pour Te lever",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43871558718091264,
+      "m_Localized": "3:18",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166744128778240,
+      "m_Localized": "Episodes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166784872247296,
+      "m_Localized": "Discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166821815676928,
+      "m_Localized": "Crédits",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166893966094336,
+      "m_Localized": "Sortir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167448033652736,
+      "m_Localized": "Si vous avez une histoire à partager, envoyez-la à :",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167670449205248,
+      "m_Localized": "Retour",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167713226911744,
+      "m_Localized": "Choisis une sauvegarde",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167949966012416,
+      "m_Localized": "Fears to Fathom est un jeu d'horreur psychologique épisodique où chaque épisode dévoile une courte histoire racontée par ceux qui ont survécu.\n\nVous jouez au deuxième épisode, d'autres épisodes sortiront bientôt\n\nDurée de l'épisode : ~40 minutes.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52168303638114304,
+      "m_Localized": "Nouvelle partie",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52168345769897984,
+      "m_Localized": "Sauvegarde-Auto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53085238546558976,
+      "m_Localized": "[ESC] pour lire les messages\n",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

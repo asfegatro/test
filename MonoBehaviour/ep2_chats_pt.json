@@ -1,0 +1,301 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_chats_pt",
+  "m_LocaleId": {
+    "m_Code": "pt"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -8187240032764193263
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 14367748096,
+      "m_Localized": "Tu ligaste?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53513187328,
+      "m_Localized": "sim, eu acho que vou para aquela convenção",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 192025882624,
+      "m_Localized": "podes me emprestar o teu carro por 5dias por favorr?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233926979584,
+      "m_Localized": "Com quem?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 299848855552,
+      "m_Localized": "Aydan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 358313259008,
+      "m_Localized": "Aquele amigo da Internet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 464127160320,
+      "m_Localized": "ele é uma boa pessoa ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 544112537600,
+      "m_Localized": "Tu não vais para uma viagem de 10 horas sozinho",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 795733028864,
+      "m_Localized": "Eu já me decidi",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 891451240448,
+      "m_Localized": "Não",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 936338681856,
+      "m_Localized": "bem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1030257537024,
+      "m_Localized": "Eu vou te levar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1093826408448,
+      "m_Localized": "PORQUE É QUE NÃO ENTENDES NADA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1200353341440,
+      "m_Localized": "Falamos quando eu chegar a casa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1278791020544,
+      "m_Localized": "Conduz com cuidado Holly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1491089911808,
+      "m_Localized": "Não te esqueças de me ligar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1574321680384,
+      "m_Localized": "tu consegues pai",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1626364604416,
+      "m_Localized": "estou a sair",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075769101152256,
+      "m_Localized": "Onde é que chegaste?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075858255278080,
+      "m_Localized": "ainda a cerca de 6horas da cidade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075988773629952,
+      "m_Localized": "eu fiquei preso em tráfico",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1076198576910336,
+      "m_Localized": "Eu disse te para levar esse voo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1076591860019200,
+      "m_Localized": "Oh holly, vai ser tarde quando chegares de volta. Espero que estás a sentir te bem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077205507665920,
+      "m_Localized": "Holly?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077283421057024,
+      "m_Localized": "Vou estar bem pai.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077505450733568,
+      "m_Localized": "Eu não sei se vais encontrar alguma loja aberta a esta hora mas nós estamos esgotados em comida de cão",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077606189527040,
+      "m_Localized": "poderias trazer alguma coisa para o milo?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1124037772341248,
+      "m_Localized": "mãe?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125264174247936,
+      "m_Localized": "Eu ligo-te de volta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125638176141312,
+      "m_Localized": "surpreendentemente estava comida de cão no posto de gasolina e não me precisar de pagar de volta por ele",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125707340214272,
+      "m_Localized": "não está expirado nem nada certo?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4692498649870336,
+      "m_Localized": "mais alguma coisa?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11450294263246848,
+      "m_Localized": "Onde é que chegaste?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11450528905195520,
+      "m_Localized": "Porque é que não estás a atender a chamada?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11451916989132800,
+      "m_Localized": "O que queres dizer com redirecionar???",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20652423033024512,
+      "m_Localized": "eu talvez vá ter de ficar num motel esta noite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20652798511312896,
+      "m_Localized": "pai",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20661321995546624,
+      "m_Localized": "Liga me agora Holly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

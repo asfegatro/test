@@ -1,0 +1,301 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_subs_pt-BR",
+  "m_LocaleId": {
+    "m_Code": "pt-BR"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -7199044856205845511
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 4181492658176,
+      "m_Localized": "dirijir a noite é bem terapeutico para mim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4217832108032,
+      "m_Localized": "bem, pelo menos costumava ser",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2502892277886976,
+      "m_Localized": "eu não era a melhor dirigindo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3180670711132160,
+      "m_Localized": "perto da metade da viagem percebi que estava com pouca gasolina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8791410994212864,
+      "m_Localized": "ele apenas olhou para mim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9473818596896768,
+      "m_Localized": "eu me lembro de ter roubado algumas coisas daquele posto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523122074185728,
+      "m_Localized": "eu enchi o tanque e fui para a estrada de novo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523723700957184,
+      "m_Localized": "o tanque do meu carro estava cheio",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9535178139660288,
+      "m_Localized": "meu carro estava estacionado um pouco longe de mais primeiro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9970027321257984,
+      "m_Localized": "eu deveria ter parado perto da bomba de gasolina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15430061257814016,
+      "m_Localized": "pensei que poderia passar pelos troncos mas esses não se moviam",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15466765272379392,
+      "m_Localized": "tinha uma coisa muito estranha sobre aquela noite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467201966534656,
+      "m_Localized": "eu vi dois grandes troncos bloqueando o caminho em frente",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467645799395328,
+      "m_Localized": "quase pareceu que alguem colou eles lá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15468091083485184,
+      "m_Localized": "mas não pensei muito sobre isso aquela altura",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15478195581251584,
+      "m_Localized": "aqueles eram pesados",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15480554122276864,
+      "m_Localized": "tive que mover os troncos para seguir em frente",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15728796487544832,
+      "m_Localized": "o carro não pode ligar novamente",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15729541148471296,
+      "m_Localized": "e foi assim que fiquei no meio do nada sem sinal de telefone",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15880307476512768,
+      "m_Localized": "eu não estou dizendo que eu comecei a acreditar na baboseira que o funcionario do posto de gasolina disse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15883301043552256,
+      "m_Localized": "mas eu estaria mentindo se disesse que não estava me sentindo um pouco inquieta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15884454015778816,
+      "m_Localized": "eu não quero que isso soe como uma historia de terror clichê mas...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15889035684724736,
+      "m_Localized": "ao longo da minha vida me disseram para não pegar carona com estranhos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16113840465014784,
+      "m_Localized": "mas no momento não tive escolha",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238509125955584,
+      "m_Localized": "eu estava com medo de pensar quanto tempo demoraria para alguem passar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238994394345472,
+      "m_Localized": "pura maldade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16239069170397184,
+      "m_Localized": "eu não entendi como alguem poderia deixar outro humano perdido daquele jeito",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17713036200669184,
+      "m_Localized": "eu não poderia andar deixando minhas coisas lá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18031824381046784,
+      "m_Localized": "eu ouvi um carro proximo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22477563198861312,
+      "m_Localized": "eu não precisava dele",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505063702491136,
+      "m_Localized": "eu consegui comida para o milo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505720941539328,
+      "m_Localized": "eu não acho que trouxe mais de um desses",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22677686692507648,
+      "m_Localized": "porque que minha mãe pediu, eu tive que comprar algo para milo na loja",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30899750746353664,
+      "m_Localized": "o homem estava dando uma das sensaçoes mais assustadoras possiveis",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32743317647290368,
+      "m_Localized": "eu não podia simplesmente entrar em qualquer quarto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32833857403383808,
+      "m_Localized": "não podia dormir lá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38937282188832768,
+      "m_Localized": "eu tive que por as minhas coisas no quarto antes de dormir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38973831446163456,
+      "m_Localized": "estava bom e quente la dentro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

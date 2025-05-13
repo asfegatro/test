@@ -1,0 +1,693 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_Table1_pt",
+  "m_LocaleId": {
+    "m_Code": "pt"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -1150750695141353469
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 180210528256,
+      "m_Localized": "FEARS TO FATHOM EPISÓDIO 2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4155819323392,
+      "m_Localized": "Aperta Qualquer Botão",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 141743892885504,
+      "m_Localized": "Isto aconteceu-me quando eu tinha 19 anos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143891716272128,
+      "m_Localized": "Eu estou agora um pouco acima dos 21",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143918631120896,
+      "m_Localized": "Eu ainda me lembro disto muito claramente por causa do quão assustada me senti",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143936637267968,
+      "m_Localized": "Eu estava um pouco hesitante a escrever isto para a internet no início",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143956262416384,
+      "m_Localized": "mas tirando isso de mim talvez ajude, mesmo que só um pouco",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143973513588736,
+      "m_Localized": "Eu era uma daquelas pessoas que ama convenções de jogos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143992664780800,
+      "m_Localized": "Eu ia para todas as convenções que tinha a chance de ir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144076701855744,
+      "m_Localized": "e às vezes até me encontrar com alguns dos meus amigos online",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144083047837696,
+      "m_Localized": "pensei que os meus pais nunca fossem animados com a idea de eu conduzir na interestadual",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144084473901056,
+      "m_Localized": "mas um bilhete de avião teria sido muito caro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144086264868864,
+      "m_Localized": "A convenção em que eu estava correu muito bem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 220236970356736,
+      "m_Localized": "16 de Junho",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10495195483369472,
+      "m_Localized": "Boleia de Norwood",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10539685212483584,
+      "m_Localized": "e era agora o dia de voltar para casa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10539745442689024,
+      "m_Localized": "mas quando eu arranquei, eu rapidamente percebi que o tráfico estava horrível",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10539772026187776,
+      "m_Localized": "Eu decidi que iria pelo caminho mais longo para evitar o transito",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10542384247107584,
+      "m_Localized": "foi uma condução um pouco maior que 12 horas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439460989104128,
+      "m_Localized": "depois de uma rápida conversa, ele deixou-me num motel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439564508721152,
+      "m_Localized": "aparentemente eles ofereceram assistência à beira da estrada",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439699456258048,
+      "m_Localized": "para além disso eu pensei que poderia ter um pequeno descanso",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439747510398976,
+      "m_Localized": "\"cuidado, há todo o tipo de pessoas lá fora\", ele disse de forma ameaçadora antes de ir embora.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49886740439265280,
+      "m_Localized": "até hoje eu acho muito estranho que",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49887079947202560,
+      "m_Localized": "o patrão disse para não envolver a polícia pois iria afetar a reputação do motel e para desistir da situação",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49888310602133504,
+      "m_Localized": "Eu acredito que a aldeia poderia ter sido a base para um culto ou para um esquema de drogas ou possivelmente algo ainda pior",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49888331607207936,
+      "m_Localized": "o Tommy chegou com o carro depois do que pareceu ser um ano",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49905441959997440,
+      "m_Localized": "Eu nunca mais voltei a ir em viagens longas de carro, eu iria sempre de avião.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4181492658176,
+      "m_Localized": "conduzir a noite é muito terapêutico para mim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4217832108032,
+      "m_Localized": "bem, pelo menos era",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2502892277886976,
+      "m_Localized": "Eu não era a melhor a conduzir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52882697296703488,
+      "m_Localized": "A metade da viagem apercebi-me que estava com pouco combustível",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8791410994212864,
+      "m_Localized": "ele apenas olhou para mim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9473818596896768,
+      "m_Localized": "Eu lembro-me de roubar alguns itens daquela bomba de gasolina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523122074185728,
+      "m_Localized": "Eu enchi o depósito e meti-me na estrada outra vez ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523723700957184,
+      "m_Localized": "o depósito do meu carro estava cheio",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9535178139660288,
+      "m_Localized": "O meu carro estava estacionado um pocuo longe demais à primeira",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9970027321257984,
+      "m_Localized": "Eu devia ter parado na bomba de gasolina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15430061257814016,
+      "m_Localized": "Pensei que podia passar pelos troncos mas estes não se moviam",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15466765272379392,
+      "m_Localized": "Há uma coisa muita estranha sobre aquela noite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467201966534656,
+      "m_Localized": "Eu vi dois grandes troncos no meio da estrada impedindo o caminho em frente",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467645799395328,
+      "m_Localized": "Quase parecia que alguém meteu aqueles troncos de propósito ali",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15468091083485184,
+      "m_Localized": "Mas não pensei muito nisso naquela altura",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15478195581251584,
+      "m_Localized": "Aqueles eram pesados",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15480554122276864,
+      "m_Localized": "Precisava de mover os troncos para continuar em frente",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15728796487544832,
+      "m_Localized": "O carro não ligava novamente",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15729541148471296,
+      "m_Localized": "E assim fiquei preso no meio do nada sem rede no telemóvel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15880307476512768,
+      "m_Localized": " Não estou a dizer que começava a creditar na treta que funcionário da bomba de gasolina disse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15883301043552256,
+      "m_Localized": "Mas eu estaria a mentir se dissesse que não estava a sentir-me um pouco irrequieta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15884454015778816,
+      "m_Localized": "Eu não quero fazer isto soar como uma história de terror clichê mas...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15889035684724736,
+      "m_Localized": "Ao longo da minha vida disseram-me para não aceitar boleia de estranhos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16113840465014784,
+      "m_Localized": "mas naquele momento não tive escolha",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238509125955584,
+      "m_Localized": "eu estava assustada de pensar quanto tempo iria demorar para alguém passar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238994394345472,
+      "m_Localized": "pura maldade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16239069170397184,
+      "m_Localized": "Eu não entendi como é que alguém podia deixar outro ser humano perdido assim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17713036200669184,
+      "m_Localized": "Eu não podia conduzir deixando as minhas coisas para trás",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18031824381046784,
+      "m_Localized": "Ouvi um carro a aproximar-se",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22477563198861312,
+      "m_Localized": "Eu não precisava dele",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505063702491136,
+      "m_Localized": "Comprei comida para o milo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505720941539328,
+      "m_Localized": "Eu não acho que comprei mais do que um desses",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22677686692507648,
+      "m_Localized": "Já que a minha mãe pediu, eu presisava de comprar algo da loja para o milo ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30899750746353664,
+      "m_Localized": "o homem estava a dar as vibrações mais assustadoras imagináveis",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32743317647290368,
+      "m_Localized": "eu não podia apenas ir para qualquer quarto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32833857403383808,
+      "m_Localized": "não podia dormir ali",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38937282188832768,
+      "m_Localized": "presisava colocar as minhas coisas no quarto antes de conseguir dormir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38973831446163456,
+      "m_Localized": "era agradável e quente dentro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38974213861830656,
+      "m_Localized": "excepto estava um cheiro, um tipo de cheiro aromático que tem nas casas velhas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39047602622328832,
+      "m_Localized": "não conseguia ir para a cama com a porta totalmente aberta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108144384438272,
+      "m_Localized": "chama-lhe de previsão, mas havia algo de muito estranho naquele lugar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108223094747136,
+      "m_Localized": "não podia ignorar a sensação de que algo não estava certo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108295815589888,
+      "m_Localized": "a sensção de cansaço foi superada pela ansiedade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108358835007488,
+      "m_Localized": "um copo de café quente podia ajudar, pensei para mim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40114336183775232,
+      "m_Localized": "já não queria dormir mais, apenas café me podia ajudar a manter acordado",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40420727129796608,
+      "m_Localized": "Não queria",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40422996453781504,
+      "m_Localized": "eu estava com muito pouco dinheiro para isso",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40424131906400256,
+      "m_Localized": "não o estava a sentir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42027338000658432,
+      "m_Localized": "poderia simplesmente meter isso no porta-bagagem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42027887366402048,
+      "m_Localized": "eu realmente explorei uma falha na simulação e roubei um item mas não o conseguia levar comigo, rayll era demasiado preguiçoso para programar para isso",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272181960470528,
+      "m_Localized": "estar na estrada faz-te realmente aperceber de uma coisa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272255088160768,
+      "m_Localized": "Os monstros realmente existem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272509212651520,
+      "m_Localized": "e cada um deles parece-se connosco",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43451647571161088,
+      "m_Localized": "o Tommy ainda estava no quarto, a olhar para mim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43738429013520384,
+      "m_Localized": "não podia largar as minhas coisas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43765464033292288,
+      "m_Localized": "eu estava sedada",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52882697321869312,
+      "m_Localized": "não me sentia segura a sair",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46257399310479360,
+      "m_Localized": "realmente precisava dum pouco de refrigerante energético",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46988869322829824,
+      "m_Localized": "a porta estava bem aberta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46993003807666176,
+      "m_Localized": "por alguma razão o seu comportamento mudou completamente",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52882697321869313,
+      "m_Localized": "Ele iria partir a porta",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48215766463574016,
+      "m_Localized": "Legendas não encontradas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50243962033827840,
+      "m_Localized": "Só tinha duas mãos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50379177171513344,
+      "m_Localized": "Não tenho a certeza do porquê mas no início eu continuei sem ir buscar gasolina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51005995016679424,
+      "m_Localized": "Não devia ter deixado o carro atrás, tinha de mover os troncos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51783502649257984,
+      "m_Localized": "Tenho de admitir, eu era uma condutora horrível",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

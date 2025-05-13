@@ -1,0 +1,1323 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_dialogues_zh-Hans",
+  "m_LocaleId": {
+    "m_Code": "zh-Hans"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -8785138362694814198
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 222891765760,
+      "m_Localized": "小姐？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 489523671040,
+      "m_Localized": "你好，我要加10块钱的2号汽油。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 784500682752,
+      "m_Localized": "[离开]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 992269725696,
+      "m_Localized": "你一个人上桥？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1219349344256,
+      "m_Localized": "桥？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1642235850752,
+      "m_Localized": "怎么了？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 370555322789888,
+      "m_Localized": "不是很懂。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397134732095488,
+      "m_Localized": "我说的是诺伍德山谷路，每年这个时候没多少人朝那开的。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397485896003584,
+      "m_Localized": "每年这个时候没多少人朝那开的。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397591374360576,
+      "m_Localized": "小心点",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397673058430976,
+      "m_Localized": "谢了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397708223475712,
+      "m_Localized": "给你",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 397782903058432,
+      "m_Localized": "你什么意思？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 400793134067712,
+      "m_Localized": "小姐，我不是在开玩笑，小心点。外面不安全。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 401968684232704,
+      "m_Localized": "在过去的一个世纪中，好多人在那里失踪了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 403908310757376,
+      "m_Localized": "去找他们的人也没有回来。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 404009640947712,
+      "m_Localized": "当地人声称诺伍德山谷的怪物把那些人撕裂，倒挂在了树上。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405268045393920,
+      "m_Localized": "好吧，谢谢你帮我加油了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405334315397120,
+      "m_Localized": "我可以用下那间厕所吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405399452938240,
+      "m_Localized": "棒。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 405966141157376,
+      "m_Localized": "还没打扫呢。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 747777896378368,
+      "m_Localized": "你得到了2号汽油。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 749737429069824,
+      "m_Localized": "小姐，还要别的吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 750856012197888,
+      "m_Localized": "不，谢了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 965577030135808,
+      "m_Localized": "你去那里干嘛？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 971329878781952,
+      "m_Localized": "不干什么事。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1025038180577280,
+      "m_Localized": "小姐，马上停车，否则我要报警了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1025817972994048,
+      "m_Localized": "只是来找汽油的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1026152535846912,
+      "m_Localized": "警察还要好一会才能到呢",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1026492702289920,
+      "m_Localized": "我有我的路子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1128785246318592,
+      "m_Localized": "晚上咋样？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1128933271695360,
+      "m_Localized": "朝哪去？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130236563582976,
+      "m_Localized": "你听说诺伍德山谷的怪物了吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130377206984704,
+      "m_Localized": "没什么好担心的。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1130426662023168,
+      "m_Localized": "胡扯八道。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1387448120799232,
+      "m_Localized": "你知道诺伍德山谷的怪物吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1660648306143232,
+      "m_Localized": "对了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663328973910016,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663357918801920,
+      "m_Localized": "为什么？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663428005621760,
+      "m_Localized": "她是谁？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663615667171328,
+      "m_Localized": "有人说她在舞会之夜死于车祸，也有人说她被先奸后杀，一直在寻找复仇的机会。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663846362279936,
+      "m_Localized": "反正她就是出来杀人的。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1663923512307712,
+      "m_Localized": "记住……无论如何……都别让人搭便车。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1664662460592128,
+      "m_Localized": "如果你看见一个身着白色或绿色长裙的女人在招手停车，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1665075658256384,
+      "m_Localized": "千万别停。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1665321373167616,
+      "m_Localized": "把油门踩到最大。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1666190776889344,
+      "m_Localized": "他们不是你想的那样。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1924413954093056,
+      "m_Localized": "那些在路边竖起大拇指的搭乘者，不是你想的那样，小姐。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2181292538097664,
+      "m_Localized": "你得为那个东西付钱，小姐。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222647272796160,
+      "m_Localized": "你是加油站的那个女孩。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222810561245184,
+      "m_Localized": "嗨。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222845449465856,
+      "m_Localized": "谢谢你为我停车。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11222979197431808,
+      "m_Localized": "没想到会有人愿意在这里为我停车。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223177734811648,
+      "m_Localized": "我的车好像坏了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223272291201024,
+      "m_Localized": "我没法打电话求助，这里没信号。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223332806619136,
+      "m_Localized": "我可以搭个便车吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11223403937820672,
+      "m_Localized": "你朝哪去？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224037319667712,
+      "m_Localized": "就顺着这条路往前。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224101538656256,
+      "m_Localized": "就到最近的车站，我好打电话求助。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224183164006400,
+      "m_Localized": "上车吧",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11224201140793344,
+      "m_Localized": "太感谢了，我要拿上我的东西，可以等我一会吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11234027312934912,
+      "m_Localized": "搞快点，扔在后座上就行了。我等不了多久。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11436513353166848,
+      "m_Localized": "你搞快点，我闲功夫不多。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11437437119262720,
+      "m_Localized": "你能帮我拿下我的东西吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11437513526898688,
+      "m_Localized": "外面不安全。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11466477792292864,
+      "m_Localized": "我好了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11467685974142976,
+      "m_Localized": "快点上车，我要发动了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11468375878430720,
+      "m_Localized": "终于好了，快点上车。\n快点。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11488574836994048,
+      "m_Localized": "你看啥呢？要出发了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11491011807309824,
+      "m_Localized": "你到底上不上车，不上我走了啊。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11906895394795520,
+      "m_Localized": "你在外面捣鼓什么呢？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258679774670848,
+      "m_Localized": "所以你是不打算告诉我你的名字和目的地咯？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258808401391616,
+      "m_Localized": "可以的话，我不想透露。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12258899895939072,
+      "m_Localized": "我就住这附近。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259007857324032,
+      "m_Localized": "我本来是在开车回家的路上。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259111225946112,
+      "m_Localized": "你说什么就是什么吧。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259549430050816,
+      "m_Localized": "是吗？如果是这样的话，你不可能在加油站问那些问题的。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259793899253760,
+      "m_Localized": "然后那辆破车居然坏了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259899574743040,
+      "m_Localized": "杰森。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12259935066943488,
+      "m_Localized": "没关系的，换做是我，也不会随便相信陌生人。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260136712302592,
+      "m_Localized": "什么？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260165325844480,
+      "m_Localized": "我的名字是杰森。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260252038885376,
+      "m_Localized": "我叫霍莉。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260384335622144,
+      "m_Localized": "很高兴认识你，杰森。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12260793565474816,
+      "m_Localized": "您今晚能在小镇的这头碰到我，还是挺幸运的。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261071123542016,
+      "m_Localized": "我必须说，你真是一个勇敢的年轻女性。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261237113122816,
+      "m_Localized": "何出此言？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261301390831616,
+      "m_Localized": "什么意思？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12261425152159744,
+      "m_Localized": "你知道你的车子是怎么坏的吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262835981807616,
+      "m_Localized": "我觉得是电池的问题。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262944501035008,
+      "m_Localized": "那辆车很老了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12262992743919616,
+      "m_Localized": "我不知道。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266006166794240,
+      "m_Localized": "那是我爸的车，相当老了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266338406002688,
+      "m_Localized": "就这？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266418420740096,
+      "m_Localized": "以前从来没像这样坏过。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266533130760192,
+      "m_Localized": "我是这么认为的。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266726748221440,
+      "m_Localized": "所以，在加油站时他说的那些话，你是怎么看的？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266861884502016,
+      "m_Localized": "一个字都没听进去。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12266938610905088,
+      "m_Localized": "他的话吓死人了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267016515907584,
+      "m_Localized": "他的话很有趣。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267086007136256,
+      "m_Localized": "有趣……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267206039728128,
+      "m_Localized": "那蠢货逢人便说那个故事。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12267749348896768,
+      "m_Localized": "所以是真的咯？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268145987448832,
+      "m_Localized": "什么？那个怪物吗？反正我是从来没见过。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268255291011072,
+      "m_Localized": "外面有些东西……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268355530682368,
+      "m_Localized": "我估计你车子坏了也是它们的杰作。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12268564067282944,
+      "m_Localized": "嘿听好了……我也不想学那白痴说话，但是你得记住一件事……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269005916237824,
+      "m_Localized": "之前我待你像个混蛋，我为此道歉，我对谁都这样",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269085645762560,
+      "m_Localized": "我没放在心上",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12269146517696512,
+      "m_Localized": "没关系",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13139051785908224,
+      "m_Localized": "你确定？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13258288340824064,
+      "m_Localized": "你不惊扰他们，他们就不会惊扰你。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15622737534021632,
+      "m_Localized": "小姐，收您5块钱。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15622903238389760,
+      "m_Localized": "[付款]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682187050250240,
+      "m_Localized": "美女，要开间房过夜吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682267534749696,
+      "m_Localized": "开一间房要多少钱？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682420966584320,
+      "m_Localized": "呃，对，不过我只待几小时。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682484296380416,
+      "m_Localized": "一间40块。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682577078579200,
+      "m_Localized": "只收现金",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682630828584960,
+      "m_Localized": "9号房，就在那边",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682782821773312,
+      "m_Localized": "[谈论车的事]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23682945476882432,
+      "m_Localized": "90块，汤米明早会处理的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683014510931968,
+      "m_Localized": "好，我会告诉汤米的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683130353414144,
+      "m_Localized": "最后提醒下",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23683251665268736,
+      "m_Localized": "不要吵醒别的顾客，他们可不好惹。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093190060437504,
+      "m_Localized": "你在这里做什么？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093364761587712,
+      "m_Localized": "你吓了我一跳。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093446139473920,
+      "m_Localized": "这是我要问的问题。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093519502045184,
+      "m_Localized": "呵呵呵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093614431727616,
+      "m_Localized": "你哪位？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27093671751086080,
+      "m_Localized": "我是汤米，负责这家诺伍德最佳路边旅馆的客房服务",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094086722940928,
+      "m_Localized": "你在里面干嘛？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094167761088512,
+      "m_Localized": "你懂的……\n打扫卫生……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094463635681280,
+      "m_Localized": "前台的人给了我这间房",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27094629654622208,
+      "m_Localized": "在我打扫完房间前，请你待在外面。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27102290014007296,
+      "m_Localized": "那我先去拿行李",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28152693241573376,
+      "m_Localized": "你在干嘛？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28152840348397568,
+      "m_Localized": "小姐，请住手。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28153034502729728,
+      "m_Localized": "我要报警了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28153462963466240,
+      "m_Localized": "这么做是有后果的……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32063726502965248,
+      "m_Localized": "9号房就在那边。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32064719605100544,
+      "m_Localized": "你好好睡了一晚。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32065932383907840,
+      "m_Localized": "都跟你说了，在外面等一会，先拿你的行李去。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36496882815627264,
+      "m_Localized": "跟乔说了说眼下的情况。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36496978902937600,
+      "m_Localized": "这些人是怎么回事？\n冷静，冷静，冷静。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497381849722880,
+      "m_Localized": "甭担心，这里安全得很，我去取你的车。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497451575832576,
+      "m_Localized": "还有，这间房里的电话坏了。如有任何需要，就去前台问。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497597495668736,
+      "m_Localized": "我们一直想修那电话来着，但是最近客源不是很多，所以呵呵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36497734825570304,
+      "m_Localized": "但是你睡了个好觉，不是吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054534762885120,
+      "m_Localized": "我不是特地强调了不要吵醒别人吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054687351664640,
+      "m_Localized": "我还没找你投诉呢！你怎么一直在制造噪音？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38054744297730048,
+      "m_Localized": "不管那是什么，放低你的音量，小姐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055046950318080,
+      "m_Localized": "那就是你眼睛红红的原因吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055099995680768,
+      "m_Localized": "[提及那台咖啡机]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055213610987520,
+      "m_Localized": "你逗我玩呢？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055265842655232,
+      "m_Localized": "我们这里没有咖啡机。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055316757311488,
+      "m_Localized": "明明就在那里。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38055431836430336,
+      "m_Localized": "好好好，是有一台。\n我已经受够你们这些蠢货了，我以为终于来了个稳重的顾客，结果是我错了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059537623838720,
+      "m_Localized": "跟我来",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059604581707776,
+      "m_Localized": "我讨厌我的工作",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38059683157798912,
+      "m_Localized": "[为乔引路]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38361369566932992,
+      "m_Localized": "它现在在哪？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38361422528409600,
+      "m_Localized": "发生什么了？给我看看你的咖啡机？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38689704914350080,
+      "m_Localized": "回房间去",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38689814750588928,
+      "m_Localized": "我发誓它刚刚就在这里",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690129394692096,
+      "m_Localized": "怎么回事？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690193701761024,
+      "m_Localized": "发生了什么？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690312648028160,
+      "m_Localized": "都叫你回去了\n现在立刻马上",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38690414141796352,
+      "m_Localized": "没听见我讲的话吗？我让你回房间去，不要出来！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38733508883148800,
+      "m_Localized": "你房里应该有些药，吃下去你会舒服一点。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38734012606476288,
+      "m_Localized": "检查电视机旁边的桌子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39391035056615424,
+      "m_Localized": "你的行李都在外面了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40598874295005184,
+      "m_Localized": "请开开门，我需要帮助",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40598965923770368,
+      "m_Localized": "你想要什么？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40599040041316352,
+      "m_Localized": "[开门]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40599081971773440,
+      "m_Localized": "[无视]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40618950356267008,
+      "m_Localized": "外面的是谁？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40934754486480896,
+      "m_Localized": "拜托了，我需要你的帮助。\n请打开门。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40948616849944576,
+      "m_Localized": "我只是想和你谈谈，\n我发誓我不是警察。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40949320608018432,
+      "m_Localized": "请走开，不然我要报警了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40952335524065280,
+      "m_Localized": "漂亮的小妞……出来嘛~",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40961486283239424,
+      "m_Localized": "爷知道你在里面。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40967159272337408,
+      "m_Localized": "请离开。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43035722191630336,
+      "m_Localized": "我是前台的乔，请开门。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

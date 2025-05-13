@@ -1,0 +1,301 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_Table1_zh-Hans",
+  "m_LocaleId": {
+    "m_Code": "zh-Hans"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -1150750695141353469
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 180210528256,
+      "m_Localized": "溯源之惧 第二章",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4155819323392,
+      "m_Localized": "按下任意按键",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 141743892885504,
+      "m_Localized": "这是我在19岁时碰到的事。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143891716272128,
+      "m_Localized": "现在我已经21岁出头了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143918631120896,
+      "m_Localized": "时至今日我仍记忆犹新，因为当时我被吓得半死。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143936637267968,
+      "m_Localized": "我本来是不想在网上谈这件事的，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143956262416384,
+      "m_Localized": "但是说出来可能会让我好受一些。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143973513588736,
+      "m_Localized": "我以前特喜欢逛游戏展，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 143992664780800,
+      "m_Localized": "只要有机会，不管多远我都会去。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144076701855744,
+      "m_Localized": "有时我还能在现场面见网友。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144083047837696,
+      "m_Localized": "虽然爸妈不止一次反对我跨州自驾，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144084473901056,
+      "m_Localized": "但我买不起高价飞机票啊。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144086264868864,
+      "m_Localized": "那次的游戏展可谓是精彩纷呈，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 220236970356736,
+      "m_Localized": "6月16日",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10495195483369472,
+      "m_Localized": "诺伍德搭乘者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10539685212483584,
+      "m_Localized": "不过回家的日子很快就到了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10539745442689024,
+      "m_Localized": "动身后不久，我发现路上堵得要命，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10539772026187776,
+      "m_Localized": "于是我决定绕远路以避开堵塞路段。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10542384247107584,
+      "m_Localized": "车程略微超过12小时。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439460989104128,
+      "m_Localized": "在与司机几番闲聊后，我在一家汽车旅馆旁下了车。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439564508721152,
+      "m_Localized": "很明显这家旅馆是提供公路援助的，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439699456258048,
+      "m_Localized": "我也正好能在这里歇一会。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29439747510398976,
+      "m_Localized": "“外面什么样的人都有，最好留个心眼。”司机临走前说了这么一句。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49886740439265280,
+      "m_Localized": "有件事一直令我不解，",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49887079947202560,
+      "m_Localized": "那就是旅馆经理为何以影响生意为由暗示我别报警，别惹祸上身。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49888310602133504,
+      "m_Localized": "现在想来，那座小镇可能是邪教营地，可能是毒枭窝点，还可能是更为糟糕的场所。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49888331607207936,
+      "m_Localized": "在托米驱车赶到前，我度日如年。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49905441959997440,
+      "m_Localized": "打那以后，我再也不搞什么长途公路旅行了，还不如坐飞机呢。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4181492658176,
+      "m_Localized": "开夜车对于我来说真的很可怕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4217832108032,
+      "m_Localized": "至少以前是这样",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2502892277886976,
+      "m_Localized": "我不擅长驾车",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52882697296703488,
+      "m_Localized": "开到一半我才意识到汽油快没了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8791410994212864,
+      "m_Localized": "他看了看我",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9473818596896768,
+      "m_Localized": "我记得自己在那家汽油站偷了点东西",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523122074185728,
+      "m_Localized": "给油罐填满汽油后，我又上路了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523723700957184,
+      "m_Localized": "我车子的油罐本来是满的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9535178139660288,
+      "m_Localized": "一开始我的车子停在较远的地方",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9970027321257984,
+      "m_Localized": "我本应该在那家加油站停车的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

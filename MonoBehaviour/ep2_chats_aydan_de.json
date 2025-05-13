@@ -1,0 +1,280 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_chats_aydan_de",
+  "m_LocaleId": {
+    "m_Code": "de"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 4090213737056959144
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 12490073337856,
+      "m_Localized": "discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12530737115136,
+      "m_Localized": "Wir haben die Tickets.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12572260724736,
+      "m_Localized": "Also?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12606645628928,
+      "m_Localized": "Mal sehen ob ich das Auto bekomme.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12675969085440,
+      "m_Localized": "Ich sag dir Bescheid. Werde endlich mit Milo spazieren gehen lol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12715525566464,
+      "m_Localized": "Okay lol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734689341440,
+      "m_Localized": "Okay der Plan steht!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12807200468992,
+      "m_Localized": "Auf jeden Fall!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12851915943936,
+      "m_Localized": "Warte, du bekommst das Auto?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12908857815040,
+      "m_Localized": "Jup",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12944916246528,
+      "m_Localized": "Großes Mädchen.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12988503453696,
+      "m_Localized": "Bist du sicher, dass Ash nicht kommen kann?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13039757848576,
+      "m_Localized": "Ich werde das Skateboard mitnehmen. Hab dort einen coolen Skaterpark in der Nähe gesehen.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13219152424960,
+      "m_Localized": "Klingt lustig.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13254401355776,
+      "m_Localized": "discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13264379604992,
+      "m_Localized": "Wo bist du?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13320054796288,
+      "m_Localized": "Fast da.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13355798654976,
+      "m_Localized": "Ich seh dich nicht.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13399163564032,
+      "m_Localized": "Pfirsich Shirt?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13597319262208,
+      "m_Localized": "Es machte Spaß, ich hatte eine gute Zeit. Danke für deine Teilnahme!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13663073366016,
+      "m_Localized": ":))",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14179895504896,
+      "m_Localized": "Nochmal, du bist dir sicher das du den ganzen Weg zurück fährst??",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14477061943296,
+      "m_Localized": "Ich habe doch jetzt eh keine wahl, oder?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14566698414080,
+      "m_Localized": "Hätte morgen früh fahren können...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14674420723712,
+      "m_Localized": "Ok. Ruf mich an wenn du in deiner Höhle zurück bist?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14789713752064,
+      "m_Localized": "Ok, Papa.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14835356168192,
+      "m_Localized": "Nicht sicher, ob es dieses Leben sein wird.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14916775997440,
+      "m_Localized": "Was meinst du",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14942851985408,
+      "m_Localized": "Stecken geblieben im größten Stau des ganzen Landes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15470700949504,
+      "m_Localized": "mies",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15521053569024,
+      "m_Localized": "Es reicht. Ich nehme eine andere Strecke.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27935539097600,
+      "m_Localized": "Hier ist es auch nicht so gut, ich glaube es sind die Leute von der Convention?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70202115125248,
+      "m_Localized": "Du musst tun was du tun musst!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11118252526825472,
+      "m_Localized": "Bruder wo bist du?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11118350396715008,
+      "m_Localized": "Dein Vater ruft mich an!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

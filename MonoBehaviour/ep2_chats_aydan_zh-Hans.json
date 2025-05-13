@@ -1,0 +1,280 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_chats_aydan_zh-Hans",
+  "m_LocaleId": {
+    "m_Code": "zh-Hans"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 4090213737056959144
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 12490073337856,
+      "m_Localized": "频道",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12530737115136,
+      "m_Localized": "我们有票了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12572260724736,
+      "m_Localized": "所以呢？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12606645628928,
+      "m_Localized": "我看看能不能借到车",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12675969085440,
+      "m_Localized": "跟你说一声，终于可以带米洛出去溜达了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12715525566464,
+      "m_Localized": "喜大奔普",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734689341440,
+      "m_Localized": "计划可以实行了！！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12807200468992,
+      "m_Localized": "太棒了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12851915943936,
+      "m_Localized": "等等，你搞到车了？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12908857815040,
+      "m_Localized": "嗯哼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12944916246528,
+      "m_Localized": "真有你的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12988503453696,
+      "m_Localized": "艾什真不来嘛？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13039757848576,
+      "m_Localized": "我会带上滑板的，看到那附近有一个不错的滑板公园",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13219152424960,
+      "m_Localized": "听上去蛮有趣的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13254401355776,
+      "m_Localized": "当然咯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13264379604992,
+      "m_Localized": "你在哪？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13320054796288,
+      "m_Localized": "快到了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13355798654976,
+      "m_Localized": "没看见你啊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13399163564032,
+      "m_Localized": "桃色的衬衫？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13597319262208,
+      "m_Localized": "玩得好嗨啊。感谢你的同行！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13663073366016,
+      "m_Localized": ":))",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14179895504896,
+      "m_Localized": "你确定要一个人开回去？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14477061943296,
+      "m_Localized": "我别无选择啊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14566698414080,
+      "m_Localized": "你本来可以明天早晨再走的……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14674420723712,
+      "m_Localized": "好吧，到家后给我打个电话哦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14789713752064,
+      "m_Localized": "好的，“老爹”",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14835356168192,
+      "m_Localized": "我可能一辈子都得这样了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14916775997440,
+      "m_Localized": "啥意思",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14942851985408,
+      "m_Localized": "碰到了严重的交通堵塞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15470700949504,
+      "m_Localized": "你也太倒霉了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15521053569024,
+      "m_Localized": "好了，我决定改道了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27935539097600,
+      "m_Localized": "这边也好堵啊，这次人都是逛完游戏展回来的吗？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70202115125248,
+      "m_Localized": "你必须做你必须做的事！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11118252526825472,
+      "m_Localized": "伙计，你在哪呢？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11118350396715008,
+      "m_Localized": "你爸一直给我打电话",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

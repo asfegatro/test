@@ -1,0 +1,203 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_Controls_zh-Hans",
+  "m_LocaleId": {
+    "m_Code": "zh-Hans"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 2284284053608594710
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 207561584640,
+      "m_Localized": "按下[Space]键出去",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7928423718744064,
+      "m_Localized": "按下[G]键扔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16544338920239104,
+      "m_Localized": "晚上10:23",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16544573302140928,
+      "m_Localized": "晚上10:43",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052884779986944,
+      "m_Localized": "[购买]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052907785744384,
+      "m_Localized": "[离开]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052992326135808,
+      "m_Localized": "处理中……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24059063132385280,
+      "m_Localized": "收集你的物品",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24063487917584384,
+      "m_Localized": "[消费]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29209001046732800,
+      "m_Localized": "凌晨00:08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31729380915048448,
+      "m_Localized": "按下[C]键蹲下",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39542413678768128,
+      "m_Localized": "按下[Space]键起身",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43871558718091264,
+      "m_Localized": "凌晨03:18",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166744128778240,
+      "m_Localized": "游玩章节",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166784872247296,
+      "m_Localized": "Discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166821815676928,
+      "m_Localized": "制作人员名单",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166893966094336,
+      "m_Localized": "退出",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167448033652736,
+      "m_Localized": "如有想分享的恐怖经历，可发送至：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167670449205248,
+      "m_Localized": "返回",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167713226911744,
+      "m_Localized": "选择一个游戏存档",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167949966012416,
+      "m_Localized": "《溯源之惧》是一款章回式恐怖游戏，每章都会揭晓一个叙述者死里逃生的短篇故事。\r\n\r\n你正在游玩的是第二章，更多章节即将到来。\r\n\r\n本章预计游玩时长：40分钟。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52168303638114304,
+      "m_Localized": "新游戏",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52168345769897984,
+      "m_Localized": "自动保存",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53085238546558976,
+      "m_Localized": "按下[Esc]键以阅读信息\r\n",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

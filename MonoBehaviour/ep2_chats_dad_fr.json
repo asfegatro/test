@@ -1,0 +1,301 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_chats_dad_fr",
+  "m_LocaleId": {
+    "m_Code": "fr"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -8187240032764193263
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 14367748096,
+      "m_Localized": "Tu l'as appelé ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53513187328,
+      "m_Localized": "Oui je pense que je vais aller a cette convention",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 192025882624,
+      "m_Localized": "Est-ce que je peux t'emprunter ta voiture pour 5 jours s'il-te-plaît ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233926979584,
+      "m_Localized": "Avec qui ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 299848855552,
+      "m_Localized": "Aydan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 358313259008,
+      "m_Localized": "Ton ami d'internet ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 464127160320,
+      "m_Localized": "C'est une bonne personne",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 544112537600,
+      "m_Localized": "Tu ne vas pas conduire pendant 10 heures tout seul",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 795733028864,
+      "m_Localized": "J'ai déjà fais mon choix",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 891451240448,
+      "m_Localized": "Non",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 936338681856,
+      "m_Localized": "Eh bah",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1030257537024,
+      "m_Localized": "Je t'y conduirais",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1093826408448,
+      "m_Localized": "POURQUOI EST-CE QUE TU NE COMPRENDS RIEN",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1200353341440,
+      "m_Localized": "On en discutera quand je serais à la maison",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1278791020544,
+      "m_Localized": "Conduis prudemment Holly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1491089911808,
+      "m_Localized": "N'oublies pas de m'appeler",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1574321680384,
+      "m_Localized": "T'inquètes Papa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1626364604416,
+      "m_Localized": "Je pars maintenant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075769101152256,
+      "m_Localized": "Oû es-tu ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075858255278080,
+      "m_Localized": "ça fait quand même 6 heures de route en dehors de la ville",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075988773629952,
+      "m_Localized": "Je me suis bloqué dans un embouteillage",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1076198576910336,
+      "m_Localized": "Je t'ai dis de prendre ce vol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1076591860019200,
+      "m_Localized": "Oh Holly, il sera tard quand tu vas nous recontacter. J'espère que tu vas bien",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077205507665920,
+      "m_Localized": "Holly?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077283421057024,
+      "m_Localized": "Ne t'en fais pas pour moi Papa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077505450733568,
+      "m_Localized": "Je ne sais pas si tu vas réussir à trouver un magasin qui est toujours ouvert à cette heure-ci mais nous n'avons plus de nourriture pour le chien",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077606189527040,
+      "m_Localized": "Est-ce que tu peux prendre quelque chose pour Milo ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1124037772341248,
+      "m_Localized": "Maman?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125264174247936,
+      "m_Localized": "Je te rembourserais",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125638176141312,
+      "m_Localized": "étonnamment il y avait de la nourriture pour chiens à la station essence et ne t'en fais pas tu n'as pas besoin de me rembourser",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125707340214272,
+      "m_Localized": "Elle n'est pas foutue n'est-ce pas ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4692498649870336,
+      "m_Localized": "Autre chose ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11450294263246848,
+      "m_Localized": "Oû es-tu ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11450528905195520,
+      "m_Localized": "Pourquoi est-ce que tu ne réponds pas ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11451916989132800,
+      "m_Localized": "Comment ça tu as changé de route ?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20652423033024512,
+      "m_Localized": "Je pense que je vais devoir m'arrêter a un motel ce soir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20652798511312896,
+      "m_Localized": "Papa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20661321995546624,
+      "m_Localized": "Appelle-moi maintenant Holly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

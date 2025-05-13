@@ -1,0 +1,301 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_chats_de",
+  "m_LocaleId": {
+    "m_Code": "de"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -8187240032764193263
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 14367748096,
+      "m_Localized": "Du hast angerufen?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53513187328,
+      "m_Localized": "Ja, ich glaube ich gehe zu dieser Convention.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 192025882624,
+      "m_Localized": "Darf ich dein Auto für 5 Tage ausborgen? Bitteee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233926979584,
+      "m_Localized": "Mit wem?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 299848855552,
+      "m_Localized": "Aydan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 358313259008,
+      "m_Localized": "Dieser Internet Freund?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 464127160320,
+      "m_Localized": "Er ist ein netter Typ.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 544112537600,
+      "m_Localized": "Du wirst nicht 10 Stunden alleine fahren.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 795733028864,
+      "m_Localized": "Ich habe mich schon entschieden",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 891451240448,
+      "m_Localized": "Nein",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 936338681856,
+      "m_Localized": "Gut",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1030257537024,
+      "m_Localized": "Ich werde dich fahren.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1093826408448,
+      "m_Localized": "WIESO VERSTEHST DU NICHTS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1200353341440,
+      "m_Localized": "Lass uns reden wenn ich nach Hause komm.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1278791020544,
+      "m_Localized": "Fahr vorsichtig Holly.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1491089911808,
+      "m_Localized": "Vergiss nicht mich anzurufen.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1574321680384,
+      "m_Localized": "Alles klar Papa.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1626364604416,
+      "m_Localized": "Ich fahre jetzt.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075769101152256,
+      "m_Localized": "Wo bist du?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075858255278080,
+      "m_Localized": "Noch etwa 6 Stunden von der Stadt entfernt.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1075988773629952,
+      "m_Localized": "Ich stecke im Stau.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1076198576910336,
+      "m_Localized": "Ich habe dir ja gesagt, dass du diesen Flug nehmen solltest.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1076591860019200,
+      "m_Localized": "Holly es wird spät wenn du zurück bist. Hoffentlich geht es dir gut.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077205507665920,
+      "m_Localized": "Holly?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077283421057024,
+      "m_Localized": "Mir geht es gut Papa.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077505450733568,
+      "m_Localized": "Ich weiß nicht ob du so spät einen Laden findest, aber wir haben kein Hundefutter mehr.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1077606189527040,
+      "m_Localized": "Kannst du etwas für Milo holen?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1124037772341248,
+      "m_Localized": "Mama?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125264174247936,
+      "m_Localized": "Ich zahl es dir zurück.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125638176141312,
+      "m_Localized": "Überraschenderweise gab es Hundefutter bei der Tankstelle. Das Geld musst du mir nicht zurückgeben .",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1125707340214272,
+      "m_Localized": "Es ist nicht abgelaufen oder?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4692498649870336,
+      "m_Localized": "Noch etwas?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11450294263246848,
+      "m_Localized": "Wo bist du jetzt?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11450528905195520,
+      "m_Localized": "Wieso hebst du nicht ab??",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11451916989132800,
+      "m_Localized": "Was meinst du mit anderer Strecke??",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20652423033024512,
+      "m_Localized": "Vielleicht muss ich heute Nacht in einem Motel übernachten.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20652798511312896,
+      "m_Localized": "Papa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20661321995546624,
+      "m_Localized": "Ruf mich sofort an Holly.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

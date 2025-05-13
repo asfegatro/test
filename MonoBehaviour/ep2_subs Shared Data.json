@@ -1,0 +1,495 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "ep2_subs Shared Data",
+  "m_TableCollectionName": "ep2_subs",
+  "m_TableCollectionNameGuidString": "e0a88a51352650248b4d0cb694707819",
+  "m_Entries": [
+    {
+      "m_Id": 4181492658176,
+      "m_Key": "RadioFirstTap1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4217832108032,
+      "m_Key": "RadioFirstTap2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2502892277886976,
+      "m_Key": "CarHitsVan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3180670711132160,
+      "m_Key": "LowGas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8791410994212864,
+      "m_Key": "LookedAtMe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9473818596896768,
+      "m_Key": "StealingItem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523122074185728,
+      "m_Key": "GasFilled1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523723700957184,
+      "m_Key": "GasFilled2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9535178139660288,
+      "m_Key": "CarFar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9970027321257984,
+      "m_Key": "lowGasStop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15430061257814016,
+      "m_Key": "LogBarrierHit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15466765272379392,
+      "m_Key": "BarrierNotice1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467201966534656,
+      "m_Key": "BarrierNotice2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467645799395328,
+      "m_Key": "BarrierNotice3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15468091083485184,
+      "m_Key": "BarrierNotice4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15478195581251584,
+      "m_Key": "ItWasHeavy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15480554122276864,
+      "m_Key": "HadToClearLogs",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15728796487544832,
+      "m_Key": "CarWouldntStart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15729541148471296,
+      "m_Key": "JustLikeThatStranded",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15880307476512768,
+      "m_Key": "NotStartingToBelieve",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15883301043552256,
+      "m_Key": "FeltUnease",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15884454015778816,
+      "m_Key": "StraightOuttaHorrorMovie",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15889035684724736,
+      "m_Key": "ParanoidOfHitchhiking",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16113840465014784,
+      "m_Key": "HadNoChoice",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238509125955584,
+      "m_Key": "SomeoneToPass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238994394345472,
+      "m_Key": "PureEvil",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16239069170397184,
+      "m_Key": "HowLeaveStrandedLikeThat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17713036200669184,
+      "m_Key": "BootItemCheckFail",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18031824381046784,
+      "m_Key": "AsCarNeared",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22477563198861312,
+      "m_Key": "DidntNeedThat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505063702491136,
+      "m_Key": "GotFoodForMilo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505720941539328,
+      "m_Key": "NoMoreBuy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22677686692507648,
+      "m_Key": "HadToBuyFoodForMilo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30899750746353664,
+      "m_Key": "CreepiestVibes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32743317647290368,
+      "m_Key": "CouldntGoIntoAnyRoom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32833857403383808,
+      "m_Key": "CouldntSleepThere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38937282188832768,
+      "m_Key": "HadToGetMyStuffInRoom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38973831446163456,
+      "m_Key": "NiceAndWarm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38974213861830656,
+      "m_Key": "ExceptTheSmell",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39047602622328832,
+      "m_Key": "DoorWideOpen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108144384438272,
+      "m_Key": "CallitAForesight",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108223094747136,
+      "m_Key": "DidntFeelSafeToSleep",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108295815589888,
+      "m_Key": "DecidedToStayUp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108358835007488,
+      "m_Key": "CupOfCoffee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40114336183775232,
+      "m_Key": "DidntWannaSleepAnymore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40420727129796608,
+      "m_Key": "DidntWantIt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40422996453781504,
+      "m_Key": "LowOnCash",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40424131906400256,
+      "m_Key": "WasntFeelingIt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42027338000658432,
+      "m_Key": "CouldPutThatInBoot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42027887366402048,
+      "m_Key": "ExploitedGlitch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272181960470528,
+      "m_Key": "BeingOnTheRoad",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272255088160768,
+      "m_Key": "RealizeOne",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272509212651520,
+      "m_Key": "EverySingleOne",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43451647571161088,
+      "m_Key": "TommyStill",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43738429013520384,
+      "m_Key": "CouldntLetGoStuff",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43765464033292288,
+      "m_Key": "IWasSedated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 44870406248755200,
+      "m_Key": "DidntFeelSafeGoingOut",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46257399310479360,
+      "m_Key": "NeededEnergySoda",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46988869322829824,
+      "m_Key": "doorWasOpen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46993003807666176,
+      "m_Key": "HisDemeanor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48192341049241600,
+      "m_Key": "HeWasBreakingDoor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48215766463574016,
+      "m_Key": "subtitlesNotFound",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50243962033827840,
+      "m_Key": "OnlyHadTwoHands",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50379177171513344,
+      "m_Key": "StillNoFuel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51005995016679424,
+      "m_Key": "ShouldntHaveLeftCar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51783502649257984,
+      "m_Key": "TerribleDriver",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "id": 0
+  },
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "DistributedUIDGenerator",
+        "ns": "UnityEngine.Localization.Tables",
+        "asm": "Unity.Localization"
+      },
+      "data": {}
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_subs_de",
+  "m_LocaleId": {
+    "m_Code": "de"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -7199044856205845511
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 4217832108032,
+      "m_Localized": "nun ja, war es zumindest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4181492658176,
+      "m_Localized": "in der Nacht fahren ist wirklich schlimm für mich",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2502892277886976,
+      "m_Localized": "ich war nicht die beste Fahrerin",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3180670711132160,
+      "m_Localized": "ich bemerkte, dass mein Tank fast leer war, als ich die Hälfte der Strecke gefahren hatte",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30899750746353664,
+      "m_Localized": "der Mann hat die gruseligsten Vibes vorstellbar verbreitet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8791410994212864,
+      "m_Localized": "er schaute mich einfach an",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9473818596896768,
+      "m_Localized": "ich kann mich daran erinnern, ein paar Sachen von der Tankstelle zu klauen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523122074185728,
+      "m_Localized": "ich hab den Tank aufgefüllt und bin wieder losgefahren",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9523723700957184,
+      "m_Localized": "der Auto-Tank war wieder voll",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9535178139660288,
+      "m_Localized": "zuerst war mein Auto etwas zu weit weg geparkt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9970027321257984,
+      "m_Localized": "ich hätte bei der Tankstelle stehen bleiben sollen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15430061257814016,
+      "m_Localized": "ich dachte ich könnte die Baumstämme umfahren, aber sie bewegten sich nicht",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15466765272379392,
+      "m_Localized": "diese Nacht war irgendwie sehr komisch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467201966534656,
+      "m_Localized": "die Straße wurde von 2 großen Baumstämmen blockiert",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15467645799395328,
+      "m_Localized": "es hat fast schon so ausgesehen, als hätte sie jemand absichtlich dorthin gelegt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15468091083485184,
+      "m_Localized": "aber zu dem Zeitpunkt ich hab mir nichts dabei gedacht ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15478195581251584,
+      "m_Localized": "sie waren schwer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15480554122276864,
+      "m_Localized": "ich musste die Baumstämme entfernen um weiterfahren zu können",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15728796487544832,
+      "m_Localized": "das Auto wollte nicht mehr starten",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15729541148471296,
+      "m_Localized": "und so bin ich mitten im nirgendwo gelandet, ohne Netz für mein Handy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15883301043552256,
+      "m_Localized": "ich würde lügen, wenn ich sage das ich mich wohl gefühlt hab",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15884454015778816,
+      "m_Localized": "ich will nicht das sich das anhört wie eine Horror-Geschichte aber...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15889035684724736,
+      "m_Localized": "in meinem ganzen Leben wurde mir gesagt, nicht bei fremden Leuten mitzufahren",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16113840465014784,
+      "m_Localized": "aber zu diesem Zeitpunkt hatte ich keine Wahl",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238509125955584,
+      "m_Localized": "es hat mir Angst gemacht, darüber nachzudenken, wie lange jemand brauchen würde um vorbeizukommen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16238994394345472,
+      "m_Localized": "pures Böse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16239069170397184,
+      "m_Localized": "ich konnte nicht verstehen, wie jemand einen anderen Menschen so gestrandet lassen kann",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17713036200669184,
+      "m_Localized": "ich konnte ohne meine Sachen nicht losfahren ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18031824381046784,
+      "m_Localized": "ich hab ein Auto näher kommen sehen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22477563198861312,
+      "m_Localized": "ich hab es nicht gebraucht",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505063702491136,
+      "m_Localized": "ich hab Futter für Milo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22505720941539328,
+      "m_Localized": "glaub nicht, dass ich mehr als eins von denen gekauft hab",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22677686692507648,
+      "m_Localized": "weil meine Mutter gefragt hatte, musste ich essen für Milo kaufen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32743317647290368,
+      "m_Localized": "ich konnte nicht einfach in irgendeinen Raum gehen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32833857403383808,
+      "m_Localized": "konnte dort nicht schlafen ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38937282188832768,
+      "m_Localized": "ich musste meine Sachen ins Zimmer räumen, bevor ich schlafen konnte ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38973831446163456,
+      "m_Localized": "drinnen war es schön warm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38974213861830656,
+      "m_Localized": "außer, da war ein Geruch, eine Art Moosgeruch den man von alten Häusern bekommt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39047602622328832,
+      "m_Localized": "ich konnte bei offener Tür nicht ins Bett",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108144384438272,
+      "m_Localized": "nenne es Vorraussicht, aber an diesem Ort war etwas sehr abwegig",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108223094747136,
+      "m_Localized": "Ich wurde das Gefühl nicht los, dass etwas nicht stimmte",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108295815589888,
+      "m_Localized": "das Gefühl der Müdigkeit wurde von Angst überwältigt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40108358835007488,
+      "m_Localized": "eine heiße Tasse Kaffe könnte helfen, dachte ich mir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40114336183775232,
+      "m_Localized": "wollte nícht mehr schlafen, nur Kaffee hilft mir wach zu bleiben",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40420727129796608,
+      "m_Localized": "wollte es nicht",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40422996453781504,
+      "m_Localized": "ich hatte für das zu wenig Geld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40424131906400256,
+      "m_Localized": "konnte es nicht spüren",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42027338000658432,
+      "m_Localized": "ich könnte es einfach in den Kofferraum legen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42027887366402048,
+      "m_Localized": "Ich habe tatsächlich einen Fehler in der Simulation ausgenutzt und einen Gegenstand gestohlen, konnte ihn aber nicht mitnehmen, dafür war rayll zu faul zum programmieren.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272181960470528,
+      "m_Localized": "wenn du auf der Straße bist, realisiert du eine Sache",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272255088160768,
+      "m_Localized": "Monster existieren wirklich",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42272509212651520,
+      "m_Localized": "und jeder andere von denen schaut aus wie du und ich",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43451647571161088,
+      "m_Localized": "Tommy war immer noch im Raum, und beobachtete mich",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43738429013520384,
+      "m_Localized": "konnte mich von meinen Sachen nicht trennen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 44870406248755200,
+      "m_Localized": "fühlte mich unsicher Raus zu gehen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46257399310479360,
+      "m_Localized": "ich hätte einen Energy Drink brauchen können",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46988869322829824,
+      "m_Localized": "die Tür war weit geöffnet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46993003807666176,
+      "m_Localized": "aus irgendeinem Grund hat sich sein Verhalten komplett geändert",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48192341049241600,
+      "m_Localized": "er wollte die Tür einbrechen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48215766463574016,
+      "m_Localized": "Untertitel nicht gefunden",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50243962033827840,
+      "m_Localized": "ich hatte nur 2 Hände",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50379177171513344,
+      "m_Localized": "ich weiß nicht wieso, aber zuerst bin ich weitergefahren ohne Treibstoff zu holen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51005995016679424,
+      "m_Localized": "hätte nicht das Auto stehen lassen sollen, ich musste die Baumstämme entfernen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51783502649257984,
+      "m_Localized": "ich gebs zu, ich war ein schlechter Fahrer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15880307476512768,
+      "m_Localized": "ich sage nicht, dass ich glaube was für eine kacke der Tankstellen Angestellte sagte",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43765464033292288,
+      "m_Localized": "ich war beruhigt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

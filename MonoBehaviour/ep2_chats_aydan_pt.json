@@ -1,0 +1,280 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_chats_aydan_pt",
+  "m_LocaleId": {
+    "m_Code": "pt"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 4090213737056959144
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 12490073337856,
+      "m_Localized": "discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12530737115136,
+      "m_Localized": "nós temos bilhetes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12572260724736,
+      "m_Localized": "então?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12606645628928,
+      "m_Localized": "Vou ver se consigo trazer o carro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12675969085440,
+      "m_Localized": "para saberes, finalmente vou levar o milo numa caminhada lol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12715525566464,
+      "m_Localized": "está bem lol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734689341440,
+      "m_Localized": "okay, o plano está em execução!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12807200468992,
+      "m_Localized": "com certeza!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12851915943936,
+      "m_Localized": "espera, vais buscar o carro?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12908857815040,
+      "m_Localized": "sim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12944916246528,
+      "m_Localized": "grande menina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12988503453696,
+      "m_Localized": "tens a certeza que a ash não consegue vir?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13039757848576,
+      "m_Localized": "Vou buscar o skate também, vi esté skate park muito fixe perto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13219152424960,
+      "m_Localized": "soa divertido",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13254401355776,
+      "m_Localized": "discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13264379604992,
+      "m_Localized": "onde estás?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13320054796288,
+      "m_Localized": "quase lá",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13355798654976,
+      "m_Localized": "Eu não te vej",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13399163564032,
+      "m_Localized": "camisa de pêssego?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13597319262208,
+      "m_Localized": "foi divertido, eu tive um bom momento. obrigado por te juntares a mim!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13663073366016,
+      "m_Localized": ":))",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14179895504896,
+      "m_Localized": "outra vez, tens a certeza que conduzes o caminho todo de volta?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14477061943296,
+      "m_Localized": "eu realmente não tenho uma escolha agora, tenho?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14566698414080,
+      "m_Localized": "podia ter saído amanhã de manhã...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14674420723712,
+      "m_Localized": "okay, liga me quando chegares de volta a tua caverna?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14789713752064,
+      "m_Localized": "okay, pai.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14835356168192,
+      "m_Localized": "não sei se isto será para este tempo de vida",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14916775997440,
+      "m_Localized": "wdym",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14942851985408,
+      "m_Localized": "preso no maior engarrafamento do país",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15470700949504,
+      "m_Localized": "isso é péssimo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15521053569024,
+      "m_Localized": "já chega vou a redirecionar aqui",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27935539097600,
+      "m_Localized": "Também não é tão bom aqui, eu acho que são as pessoas da convenção?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70202115125248,
+      "m_Localized": "tens de fazer o que tens de fazer!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11118252526825472,
+      "m_Localized": "mano, onde é que estás?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11118350396715008,
+      "m_Localized": "o teu pai está me a ligar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}

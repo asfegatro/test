@@ -1,0 +1,203 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "ep2_Controls_de",
+  "m_LocaleId": {
+    "m_Code": "de"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 2284284053608594710
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 207561584640,
+      "m_Localized": "[LEERTASTE] um Auszusteigen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7928423718744064,
+      "m_Localized": "[G] zum Werfen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16544338920239104,
+      "m_Localized": "22:23 Uhr",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16544573302140928,
+      "m_Localized": "22:43 Uhr",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052884779986944,
+      "m_Localized": "[KAUFEN]]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052907785744384,
+      "m_Localized": "[VERLASSEN]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24052992326135808,
+      "m_Localized": "WIRD BEARBEITET...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24059063132385280,
+      "m_Localized": "SAMMLE DEIN ITEM EIN",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24063487917584384,
+      "m_Localized": "[VERBRAUCHEN]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29209001046732800,
+      "m_Localized": "00:08 Uhr",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31729380915048448,
+      "m_Localized": "[C] zum Hocken",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39542413678768128,
+      "m_Localized": "[LEERTASTE] zum Aufstehen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43871558718091264,
+      "m_Localized": "03:18 Uhr",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166744128778240,
+      "m_Localized": "Episoden",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166784872247296,
+      "m_Localized": "Discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166821815676928,
+      "m_Localized": "Credits",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52166893966094336,
+      "m_Localized": "Verlassen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167448033652736,
+      "m_Localized": "Wenn du eine Geschichte zum Erzählen hast, sende sie an:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167670449205248,
+      "m_Localized": "Zurück",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167713226911744,
+      "m_Localized": "Wähle einen Spielstand aus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52167949966012416,
+      "m_Localized": "Fears to Fathom ist ein psychologisches Episoden - Horrorspiel, in dem jede Episode eine Kurzgeschichte enthält, die von den Überlebenden erzählt wird.\n\nDu spielst die zweite Episode, weitere Episoden folgen.\n\nSpielzeit der zweiten Episode: ~40 Minuten",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52168303638114304,
+      "m_Localized": "Neues Spiel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52168345769897984,
+      "m_Localized": "Automatisch gespeichert",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53085238546558976,
+      "m_Localized": "[ESC] zum Lesen von Nachrichten\n",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "Terminus",
+        "ns": "UnityEngine.DMAT",
+        "asm": "FAKE_ASM"
+      },
+      "data": {}
+    }
+  }
+}
